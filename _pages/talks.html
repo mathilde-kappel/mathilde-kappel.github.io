@@ -1,0 +1,32 @@
+---
+layout: archive
+title: "Talks and presentations"
+permalink: /talks/
+author_profile: true
+---
+
+{% if site.talkmap_link == true %}
+
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
+{% endif %}
+
+<h2>Video and recorded presentations</h2>
+
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+<h2>Other oral presentations, posters and demos</h2>
+<ul>
+  <li><strong>March 11, 2025</strong> — Poster, <em>EDITE Doctoral Students' Day</em>, IRCAM, Paris, France. Poster presenting my PhD project on learning robotic grasping and manipulation behaviors, from data generation to skill extraction.</li>
+  <li><strong>May 20, 2025</strong> — Poster and 3-minute presentation, <em>IEEE International Conference on Robotics and Automation (ICRA 2025)</em>, Atlanta, USA. Presentation of QDGset, a large-scale grasping dataset generated with Quality-Diversity.</li>
+  <li><strong>September 8, 2025</strong> — Poster, <em>International Conference on Intrinsically Motivated Open-ended Learning (IMOL 2025)</em>, University of Hertfordshire, Hatfield, United Kingdom. Presentation of "Towards Robust Prehensile Manipulation in Open-Ended Environments".</li>
+  <li><strong>February 11, 2026</strong> — 3-minute presentation, <em>ROMANDIC Winter School on Robot Handling of Deformable Objects</em>, Kranjska Gora, Slovenia. Short pitch of my research on robotic manipulation and trajectory primitives.</li>
+  <li><strong>May 26, 2026</strong> — 20-minute oral presentation, <em>ISIR Young Scientists' Day</em>, Institute of Intelligent Systems and Robotics (ISIR), Sorbonne University, Paris, France. Overview of my thesis work on diverse trajectory primitives for articulated object manipulation.</li>
+  <li><strong>May 26, 2026</strong> — Poster, <em>ISIR Young Scientists' Day</em>, ISIR, Sorbonne University, Paris, France.</li>
+  <li><strong>June 24, 2026</strong> — 10-minute oral presentation, <em>ROSCon France</em>, Sorbonne University, Paris, France. Presentation of the ROS2 architecture for articulated object manipulation using trajectory primitives learned in simulation.</li>
+  <li><strong>June 25, 2026</strong> — Live real-robot demonstration, <em>ROSCon France</em>, Sorbonne University, Paris, France. Demo of the ROS2 manipulation pipeline running on a Franka FR3 robot.</li>
+  <li><strong>July 1, 2026</strong> — 15-minute oral presentation, <em>Plateforme France Intelligence Artificielle (PFIA 2026)</em>, Arras, France. Presentation of my work on trajectory primitives and manipulation learning.</li>
+  <li><strong>October 1, 2026</strong> — Poster and 10-minute presentation, <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</em>, Pittsburgh, USA. Presentation of QDTraj: exploration of diverse trajectory primitives for articulated object robotic manipulation.</li>
+</ul>
