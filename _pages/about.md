@@ -11,6 +11,19 @@ Welcome to my research page. This website gathers my publications, talks, projec
 
 I am a PhD student in robotic manipulation at [Sorbonne University](https://www.sorbonne-universite.fr/) and a member of the [ISIR laboratory](https://isir.upmc.fr/), where I work on learning robotic skills, quality-diversity methods, and sim-to-real transfer for manipulation.
 
+Thesis subject
+======
+**From Data Generation to Knowledge Extraction in Robotics: Learning Grasping and Object Manipulation Behaviors**
+
+- **Author:** Mathilde Kappel
+- **Supervisors:** Stéphane Doncieux, Faiz Ben Amar, Mahdi Khoramshahi
+- **Type:** PhD thesis project
+- **Discipline:** Information and Communication Sciences and Technologies
+- **Start date:** PhD enrollment on October 1, 2024
+- **Institution:** Sorbonne University
+- **Doctoral school:** Doctoral School of Computer Science, Telecommunications and Electronics of Paris (EDITE)
+- **Research laboratory:** [Institute of Intelligent Systems and Robotics (ISIR)](https://isir.upmc.fr/)
+
 Site overview
 ======
 This site is organized around the main parts of my work:

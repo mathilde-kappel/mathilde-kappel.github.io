@@ -33,7 +33,7 @@ author:
     - name: "Sorbonne University"
       url: "https://www.sorbonne-universite.fr/"
     - name: "ISIR"
-      url: "https://isir.upmc.fr/"
+      url: "https://www.isir.upmc.fr/"
   uri              : # URL
   email            : "kappel@isir.upmc.fr" 
   CV               : "/files/cv_mathilde.pdf" 
