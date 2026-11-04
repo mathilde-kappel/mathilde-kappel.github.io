@@ -16,7 +16,7 @@ Thesis subject
 **From Data Generation to Knowledge Extraction in Robotics: Learning Grasping and Object Manipulation Behaviors**
 
 - **Author:** Mathilde Kappel
-- **Supervisors:** Stéphane Doncieux, Faiz Ben Amar, Mahdi Khoramshahi
+- **Supervisors:** Louis Annabi, Mahdi Khoramshahi, Faiz Ben Amar and Stéphane Doncieux
 - **Type:** PhD thesis project
 - **Discipline:** Information and Communication Sciences and Technologies
 - **Start date:** PhD enrollment on October 1, 2024
