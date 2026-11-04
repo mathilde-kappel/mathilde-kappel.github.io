@@ -42,5 +42,5 @@ Feel free to contact me at [kappel@isir.upmc.fr](mailto:kappel@isir.upmc.fr).
 
 Research environment
 ======
-My work is carried out at [ISIR – Institut des Systèmes Intelligents et de Robotique](https://isir.upmc.fr/), a research unit in robotics and intelligent systems at Sorbonne University.
+My work is carried out at [ISIR – Institut des Systèmes Intelligents et de Robotique](https://www.isir.upmc.fr/), a research unit in robotics and intelligent systems at Sorbonne University.
 
