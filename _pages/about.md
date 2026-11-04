@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my research page. This website gathers my publications, talks, projects, and ongoing work in robotics and intelligent manipulation.
 
-I am a PhD student in robotic manipulation at [Sorbonne University](https://www.sorbonne-universite.fr/) and a member of the [ISIR laboratory](https://isir.upmc.fr/), where I work on learning robotic skills, quality-diversity methods, and sim-to-real transfer for manipulation.
+I am a PhD student in robotic manipulation at [Sorbonne University](https://www.sorbonne-universite.fr/) and a member of the [ISIR laboratory](https://www.isir.upmc.fr/), where I work on learning robotic skills, quality-diversity methods, and sim-to-real transfer for manipulation.
 
 Thesis subject
 ======
