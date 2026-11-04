@@ -22,7 +22,7 @@ Thesis subject
 - **Start date:** PhD enrollment on October 1, 2024
 - **Institution:** Sorbonne University
 - **Doctoral school:** Doctoral School of Computer Science, Telecommunications and Electronics of Paris (EDITE)
-- **Research laboratory:** [Institute of Intelligent Systems and Robotics (ISIR)](https://isir.upmc.fr/)
+- **Research laboratory:** [Institute of Intelligent Systems and Robotics (ISIR)](https://www.isir.upmc.fr/)
 
 Site overview
 ======
