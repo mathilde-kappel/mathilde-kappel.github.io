@@ -18,7 +18,7 @@ Thesis subject
 - **Author:** Mathilde Kappel
 - **Supervisors:** Louis Annabi, Mahdi Khoramshahi, Faiz Ben Amar and Stéphane Doncieux
 - **Type:** PhD thesis project
-- **Discipline:** Information and Communication Sciences and Technologies
+- **Discipline:** Robotics and AI
 - **Start date:** PhD enrollment on October 1, 2024
 - **Institution:** Sorbonne University
 - **Doctoral school:** Doctoral School of Computer Science, Telecommunications and Electronics of Paris (EDITE)
